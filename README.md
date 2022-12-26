@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jignesh joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
+<img align="right" width="500" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jignesh43&label=Profile%20views&color=0e75b6&style=flat" alt="jignesh43" /> </p>
 
